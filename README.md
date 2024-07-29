@@ -11,7 +11,7 @@ This project allows you to update the firewall rules of site to site VPN of a Ci
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/meraki_vpn_firewall.git
+    git clone https://github.com/fadysharobeem/meraki_vpn_firewall.git
     cd meraki_vpn_firewall
     ```
 
