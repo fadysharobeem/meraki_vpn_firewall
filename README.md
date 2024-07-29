@@ -17,7 +17,7 @@ This project allows you to update the firewall rules of site to site VPN of a Ci
 
 2. Install the required libraries:
     ```sh
-    pip3 install requests
+    pip3 install -r requirements.txt
     ```
 
 ## Configuration
