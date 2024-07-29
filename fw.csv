@@ -1,0 +1,3 @@
+destCidr,destPort,policy,protocol,srcCidr,srcPort,comment,syslogEnabled
+any,any,allow,any,any,any,default,TRUE
+10.0.0.0/8,any,allow,any,any,any,something,
